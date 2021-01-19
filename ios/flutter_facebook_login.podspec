@@ -15,8 +15,8 @@ A Flutter plugin for allowing users to authenticate with native Android &amp; iO
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'FBSDKCoreKit', '~> 8.1.0'
-  s.dependency 'FBSDKLoginKit', '~> 8.1.0'
+  s.dependency 'FBSDKCoreKit', '~> 8.2.0'
+  s.dependency 'FBSDKLoginKit', '~> 8.2.0'
 
   # https://github.com/flutter/flutter/issues/14161
   s.static_framework = true
